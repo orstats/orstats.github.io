@@ -1,0 +1,29 @@
+#page-title {
+  margin-bottom: 30px;
+}
+
+#page-footer {
+  text-align: center;
+  color: darkgrey;
+}
+
+#period-switcher {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.section {
+  margin-bottom: 30px;
+}
+
+.section > h4 {
+  margin-bottom: 5px;
+}
+
+.switcher {
+  line-height: 0.5;
+}
+
+.greyed-out {
+  color: grey;
+}
